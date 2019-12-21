@@ -1,0 +1,20 @@
+{
+  "name": "replit-app-windows",
+  "version": "1.0.0",
+  "description": "A repl.it desktop app created with electron",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron index.js"
+  },
+  "keywords": [
+    "replit",
+    "electron"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord-rpc": "^3.1.0",
+    "electron": "^6.0.12"
+  }
+}

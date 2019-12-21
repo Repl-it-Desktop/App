@@ -1,0 +1,20 @@
+#menubar{
+    position: fixed;
+    top:0;
+    width: 100%;
+    left:0;
+    padding: 20px 20px;
+    background-color: rgb(64, 233, 245);
+}
+#close{
+    position: fixed;
+    border: none;
+    background: none;
+    top:0;
+    right:0;
+    font-size: 40px;
+    cursor: pointer;
+}
+#close:hover{
+    color:red;
+}
